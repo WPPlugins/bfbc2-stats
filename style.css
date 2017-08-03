@@ -1,0 +1,96 @@
+table.bfbc2 {
+	background:none;
+	width:100%;
+	border:0px;
+}
+tr.bfbc2 {
+	background:none;
+	height:0px;
+}
+table tr.bfbc2:hover {
+	text-decoration:none;
+	background:none;
+}
+td.bfbc2 {
+	background:none;
+	text-align:center; 
+	padding: 0px;
+	border:0px;
+}
+table td.bfbc2:hover {
+	text-decoration:none;
+	background:none;
+}
+td.bfbc2r {
+	background:none;
+	text-align:right; 
+	padding:0px; 
+	border:0px;
+}
+td.bfbc2c {
+	background:none;
+	text-align:center; 
+	padding:0px; 
+	border:0px;
+}
+td.bfbc2l {
+	background:none;
+	text-align:left; 
+	padding:0px; 
+	border:0px;
+}
+table tr.bfbc2:hover td {background:none;}
+td.bfbc2:hover{background:none;}
+td.bfbc2r:hover{background:none;}
+td.bfbc2c:hover{background:none;}
+td.bfbc2l:hover{background:none;}
+.divider{
+	filter:alpha(opacity=30);
+	-moz-opacity:0.3;
+	-khtml-opacity: 0.3;
+	opacity: 0.3;
+	border-bottom:1px dotted;
+	margin-top:0px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:5px;
+}
+.ftr {
+	display: block;
+	text-align:center; 
+	font-size:xx-small;
+}
+.servererrmsg {
+	padding-top:10px;
+}
+.rankbarbg {
+	position:relative;
+	display: inline-block;
+	width:100px;
+	height:5px;
+	text-align:left;
+	border:1px solid #929292;
+	background:#929292;
+	margin-top:8px;
+	margin-bottom:5px;
+}
+.rankbar {
+	position:absolute;
+	background: none;
+	border: 0px;
+	padding: 0px;
+}
+.general_stars_box {
+	position:relative;
+	display: inline-block;
+	width:100px;
+	height:21px;
+}
+.general_stars {
+	background: none;
+	border: 0px;
+	padding: 0px;
+}
+/* add your styles here to override template specific styles */
+#sidebar img {padding:0px; background:none; border:none;}
+#sidebar ul div {padding:0px; margin:0px;}
